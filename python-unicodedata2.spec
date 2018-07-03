@@ -7,7 +7,7 @@ Summary:	Unicodedata backport/updates to Python 2.x
 Summary(pl.UTF-8):	Uaktualnienia danych Unicode dla Pythona 2.x
 Name:		python-unicodedata2
 Version:	10.0.0.post2
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/u/unicodedata2/unicodedata2-%{version}.tar.gz
