@@ -6,7 +6,7 @@ Summary:	Unicodedata backport/updates to Python 3.x
 Summary(pl.UTF-8):	Uaktualnienia danych Unicode dla Pythona 3.x
 Name:		python3-unicodedata2
 Version:	14.0.0
-Release:	3
+Release:	4
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/unicodedata2/
